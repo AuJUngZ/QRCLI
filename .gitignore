@@ -1,0 +1,8 @@
+#ignore .bat files
+*.bat
+
+#ignore .txt files
+*.txt
+
+#ignore .png files
+*.png
