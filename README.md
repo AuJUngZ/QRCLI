@@ -25,8 +25,11 @@ This is a simple Python script that generates a QR code based on a provided URL.
 ## Usage
 - Open Cmd or Powershell and type the following command:
     ```bash
-    qr <url>
+    qr '<url>'
     ```
+    - **Note:** Replace `<url>` with the URL you want to generate a QR code for.
+
+    - **Example:** `qr 'https://www.google.com'`
    
    
    
