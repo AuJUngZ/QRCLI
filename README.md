@@ -6,7 +6,7 @@ This is a simple Python script that generates a QR code based on a provided URL.
 
 - Python 3.x
 
-## Installation
+## Installation for Windows
 
 1. Clone the repository or download the source code.
 2. Open a terminal and navigate to the project's root directory. (**`Open as Administrator)`**
@@ -21,6 +21,9 @@ This is a simple Python script that generates a QR code based on a provided URL.
     ```bash
     python setup.py
     ```
+
+## Installation for MacOS
+**Note:** Now, This script not supported on MacOS. If you want to be contributed, please send a pull request.
 
 ## Usage
 - Open Cmd or Powershell and type the following command:
